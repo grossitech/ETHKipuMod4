@@ -19,6 +19,11 @@ This project focuses on:
 
 ---
 
+## 🌍 Available Languages
+
+- 🇺🇸 [English](README.md)
+- 🇧🇷 [Português Brasileiro](README.pt-BR.md)
+
 ## 🛠️ Main Features
 
 ### Deposits:

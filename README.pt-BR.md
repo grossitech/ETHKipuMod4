@@ -18,6 +18,10 @@ Este projeto foca em:
 - **Integração com Scaffold-ETH 2**: Implementação de uma interface interativa para interação com os contratos.
 
 ---
+## 🌍 Available Languages
+
+- 🇺🇸 [English](README.md)
+- 🇧🇷 [Português Brasileiro](README.pt-BR.md)
 
 ## 🛠️ Funcionalidades Principais
 
