@@ -138,6 +138,7 @@ kipubank/
 │   │   └── foundry.toml       # Foundry configuration
 │   ├── nextjs/                # Frontend interface built with Next.js
 README.md                      # Project documentation (this file)
+README.pt-BR.md                # Portuguese project documentation
 ```
 
 ---

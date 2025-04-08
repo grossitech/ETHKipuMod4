@@ -135,6 +135,7 @@ kipubank/
 │   │   ├── script/            # Scripts de deploy (ex.: DeployKipuBank.s.sol)
 │   │   └── foundry.toml       # Configuração do Foundry
 │   ├── nextjs/                # Interface frontend baseada em Next.js
+README.md                      # Documentação do projeto em inglês
 README.pt-BR.md                # Documentação do projeto (este arquivo)
 ```
 
